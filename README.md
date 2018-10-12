@@ -1,4 +1,4 @@
-# codefundo
+# cyclone path predictor
 
 You suddenly get an alert that a cyclone has taken birth close to where you live. How do you predict the course of this cyclone? How do you know whether you are safe or you have to evacuate? To answer all this and more, we have come up our app. 
 
