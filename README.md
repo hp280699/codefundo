@@ -12,7 +12,7 @@ L is the magnitude of the spin angular momentum of a cyclone,<br>
 Ω is the angular velocity vector for the Earth's rotation,<br>
 k= unit vector along radial direction of earth
 
-If the cyclone is to be carried along at the same latitude there must be a force of -(LΩ/r)cos(φ) applied to it. In the absence of such a force the cyclone will move poleward subject to a force equal to (LΩ/r)cos(φ). This is analogous to the matter of centrifugal force on a body moving in a circular orbit.
+If the cyclone is to be carried along at the same latitude there must be a force of -(LΩ/r)cos(φ) applied to it. In the absence of such a force the cyclone will move poleward subject to a force equal to (LΩ/r)cos(φ). This is analogous to the matter of centrifugal force on a body moving in a circular orbit. Here φ is the angle made by the cyclone from earth's axis.
 
 So we can get the polewards force on a cyclone by the above equation. To calculate L of cyclone we will first observe the cyclone for some time and calculate average acceleration. Comparing average acceleration and force in that period of time we can get L of cyclone which we will consider as constant for furthur analysis. We will do this calculation for small change in latitude such that force can be taken as constant.
 
